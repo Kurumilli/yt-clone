@@ -1,0 +1,47 @@
+.header{
+    position:fixed;
+    left:20px;
+    right:20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.left-section{
+display: flex;
+align-items: center;
+}
+
+.cat{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.name{
+    font-size: 16px;
+    font-family: arial;
+    font-weight:bold ;
+}
+
+.add-button{
+   background-color: rgb(24, 119, 242);
+   color: white;
+   height: 35px;
+   width: 100px;
+   border-radius: 6px;
+   border: none;
+   font-weight: bold;
+}
+
+.msg{
+background-color: rgb(230, 230, 230);
+border: none;
+height: 35px;
+width: 100px;
+border-radius: 6px;
+font-weight: bold;
+
+}

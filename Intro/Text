@@ -1,0 +1,54 @@
+Flex Box -
+Similar to CSS Grids. It can create the same type of layouts( but it's more flexible).
+Inside of Flexbox, these divs, which are block elements don't behave like block elements anymore.
+They behave more like inline block elements.They only take up as much horizontal space as they need to.
+
+1fr(in grid) = flex 1(in flex)
+ 
+ grid= rigid layout
+ flexbox= flexible layout
+
+ To determine how these elements layed out horizontally  = justify - content.
+ Default value = start
+
+ Focused on content size,the layer doesn't matter as much. To spread our content evenly across the horizontal space.
+
+ Flexbox only affects elements on the first layer like first div and not second div.
+
+
+Box - Shadow : inset means inside
+1px - Horizontal Position
+2px - Vertical Position
+5px - color
+0.05 - Transparency
+
+If we don't want to shrink flexbox we can chose flex-shrink. 0 means it doesn't shrink.
+
+width:0; To search bar so that it does not shrink
+
+The CSS position property dictates how an element is positioned within a document and how it behaves in relation to other elements and the viewport. It works in conjunction with the top, right, bottom, and left properties to precisely control an element's placement.
+
+It has some spcl properties
+1.Top: It decides how far away our element is from the top of the window.
+
+If we want to stretch the element we can give opp directions like left and right.so the element is 90 px from the left of the pg and right of the pg.
+
+fixed - Placed in the browser Window
+absolute - placed on the page
+
+z-index determines which element appears first and which element appears behind.
+default is 0.
+If The value is higher it will appear first 
+
+Position static will always appear at the back.
+
+-negative pixels will go beyond 0 and help what we want to achieve.
+
+Responsive Design:Making the website look good in every screen size.
+For this we use media query
+
+Instead of using padding left,right,top & bottom we can simply use padding.
+padding :4px 10px;
+First value is for vertical padding (top and bottom)
+Second value is for horizontal padding(left and right)
+Top, Right, Bottom, Left

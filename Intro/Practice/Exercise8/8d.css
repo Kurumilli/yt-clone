@@ -1,0 +1,49 @@
+.first{
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: inline-block ;
+    border-radius: 8px;
+    border-width: 1px;
+    color: rgb(100,100,100);
+    border-color:  rgb(100,100,100);
+}
+
+.last{
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: inline-block ;
+    border-radius: 8px;
+    border-width: 1px;
+    color: rgb(100,100,100);
+    border-color:  rgb(100,100,100);
+    margin-bottom: 15px;
+}
+
+.email{
+    display: block;
+    width: 304px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 8px;
+    border-width: 1px;
+    color: rgb(100,100,100);
+    border-color: rgb(100,100,100);
+    margin-bottom: 15px;
+}
+
+.button{
+    width:300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(47, 127, 231);
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+}

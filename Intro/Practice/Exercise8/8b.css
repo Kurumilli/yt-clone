@@ -1,0 +1,12 @@
+.text{
+    width: 190px;
+    display: inline-block;
+
+}
+
+.yes,
+.no{
+    display: inline-block;
+    vertical-align: middle;
+    width: 40px;
+}

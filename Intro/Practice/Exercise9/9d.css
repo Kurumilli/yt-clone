@@ -1,0 +1,21 @@
+div{
+font-family: Arial;
+background-color: black;
+display: inline-block;
+
+}
+
+.title{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-top: 4px;
+}
+
+.sub-heading{
+    color: rgb(150,150,150);
+    width: 370px;
+    padding-left: 15px;
+    font-size: 14px;
+}
