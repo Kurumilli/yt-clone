@@ -1,47 +1,46 @@
 🎬 YouTube Clone
 
-A simple YouTube homepage clone built using HTML and CSS only.
-This project replicates the layout and design of YouTube’s main interface, created as part of a front-end web design practice.
+A clean and simple YouTube Clone built using only HTML and CSS.
+This project replicates YouTube’s basic layout — including the navigation bar, video thumbnails, and sidebar — for learning and design practice.
+
+💡 About the Project
+
+This project was created as part of a front-end development learning exercise.
+It focuses on understanding layout design, CSS styling, and responsive page structure — all without using frameworks or JavaScript.
+It’s a great example of how much can be achieved with just HTML and CSS!
+
 
 🚀 Features
 
-🎥 Realistic YouTube-style homepage layout
+✅ Modern, responsive layout
+✅ Sidebar navigation and top menu
+✅ Video thumbnail grid
+✅ Clean, minimalist design with CSS
 
-🧭 Navigation bar with logo, search bar, and user icons
+🛠️ Technologies Used
 
-📺 Video grid section displaying thumbnails and titles
+HTML5
 
-📱 Responsive design that adjusts to mobile, tablet, and desktop screens
+CSS3
 
-💅 Clean and modern UI with pure HTML and CSS — no frameworks, no JavaScript!
-
-🧠 Tech Stack
-Technology	Purpose
-
-
-🧩 HTML5	Structure of the webpage
-
-🎨 CSS3	Styling and layout design
-
-⚙️ How to Run Locally
-
-Follow these steps to view the project on your computer 👇
-
+⚙️ How to Run
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/youtube-clone.git
+git clone https://github.com/Kurumilli/yt-clone.git
 
-# 2️⃣ Go into the project folder
-cd youtube-clone
+# 2️⃣ Move into the project folder
+cd yt-clone
+
+# 3️⃣ Open the project
+# Double-click on index.html or use VS Code Live Server
 
 
-Then:
+🤝 Contributing
 
-Open the index.html file in your browser
-(Just double-click it, or right-click → “Open with LiLive Server” in VS Code)
-
-✅ That’s it! You’ll see your YouTube Clone homepage.
+If you’d like to improve the UI, add responsiveness, or experiment with JavaScript functionality —
+feel free to fork this repo and submit a pull request.
 
 📜 License
 
-This project is created for educational and learning purposes only.
-It is not affiliated with or endorsed by YouTube or Google.
+This project is open source and available under the MIT License.
+
+✨ Made with ❤️ by Kurumilli
